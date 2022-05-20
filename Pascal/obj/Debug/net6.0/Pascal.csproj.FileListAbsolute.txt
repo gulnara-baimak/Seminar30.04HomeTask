@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\bin\Debug\net6.0\Pascal.exe
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\bin\Debug\net6.0\Pascal.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\bin\Debug\net6.0\Pascal.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\bin\Debug\net6.0\Pascal.dll
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\bin\Debug\net6.0\Pascal.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.dll
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\refint\Pascal.dll
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\Pascal.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Pascal\obj\Debug\net6.0\ref\Pascal.dll
