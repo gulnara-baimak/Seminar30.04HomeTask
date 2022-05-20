@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\bin\Debug\net6.0\MMULT.exe
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\bin\Debug\net6.0\MMULT.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\bin\Debug\net6.0\MMULT.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\bin\Debug\net6.0\MMULT.dll
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\bin\Debug\net6.0\MMULT.pdb
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.dll
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\refint\MMULT.dll
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.pdb
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\MMULT.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\MMULT\obj\Debug\net6.0\ref\MMULT.dll
