@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number9\bin\Debug\net6.0\Number9.exe
+C:\Users\HP\Desktop\Семинар 30.04\Number9\bin\Debug\net6.0\Number9.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Number9\bin\Debug\net6.0\Number9.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Number9\bin\Debug\net6.0\Number9.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number9\bin\Debug\net6.0\Number9.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\refint\Number9.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\Number9.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number9\obj\Debug\net6.0\ref\Number9.dll
