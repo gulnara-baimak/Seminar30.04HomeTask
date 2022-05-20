@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\bin\Debug\net6.0\WordBook.exe
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\bin\Debug\net6.0\WordBook.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\bin\Debug\net6.0\WordBook.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\bin\Debug\net6.0\WordBook.dll
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\bin\Debug\net6.0\WordBook.pdb
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.dll
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\refint\WordBook.dll
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.pdb
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\WordBook.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\WordBook\obj\Debug\net6.0\ref\WordBook.dll
