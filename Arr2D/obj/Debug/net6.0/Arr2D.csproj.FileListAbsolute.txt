@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\bin\Debug\net6.0\Arr2D.exe
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\bin\Debug\net6.0\Arr2D.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\bin\Debug\net6.0\Arr2D.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\bin\Debug\net6.0\Arr2D.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\bin\Debug\net6.0\Arr2D.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\refint\Arr2D.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\Arr2D.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2D\obj\Debug\net6.0\ref\Arr2D.dll
