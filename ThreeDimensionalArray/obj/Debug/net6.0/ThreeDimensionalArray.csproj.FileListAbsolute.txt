@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\bin\Debug\net6.0\ThreeDimensionalArray.exe
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\bin\Debug\net6.0\ThreeDimensionalArray.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\bin\Debug\net6.0\ThreeDimensionalArray.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\bin\Debug\net6.0\ThreeDimensionalArray.dll
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\bin\Debug\net6.0\ThreeDimensionalArray.pdb
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.dll
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\refint\ThreeDimensionalArray.dll
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.pdb
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ThreeDimensionalArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\ThreeDimensionalArray\obj\Debug\net6.0\ref\ThreeDimensionalArray.dll
