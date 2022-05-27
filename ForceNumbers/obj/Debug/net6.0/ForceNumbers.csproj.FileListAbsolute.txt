@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\bin\Debug\net6.0\ForceNumbers.exe
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\bin\Debug\net6.0\ForceNumbers.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\bin\Debug\net6.0\ForceNumbers.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\bin\Debug\net6.0\ForceNumbers.dll
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\bin\Debug\net6.0\ForceNumbers.pdb
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.dll
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\refint\ForceNumbers.dll
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.pdb
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ForceNumbers.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\ForceNumbers\obj\Debug\net6.0\ref\ForceNumbers.dll
