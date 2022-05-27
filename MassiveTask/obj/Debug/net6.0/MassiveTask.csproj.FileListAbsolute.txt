@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\bin\Debug\net6.0\MassiveTask.exe
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\bin\Debug\net6.0\MassiveTask.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\bin\Debug\net6.0\MassiveTask.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\bin\Debug\net6.0\MassiveTask.dll
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\bin\Debug\net6.0\MassiveTask.pdb
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.dll
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\refint\MassiveTask.dll
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.pdb
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\MassiveTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\MassiveTask\obj\Debug\net6.0\ref\MassiveTask.dll
