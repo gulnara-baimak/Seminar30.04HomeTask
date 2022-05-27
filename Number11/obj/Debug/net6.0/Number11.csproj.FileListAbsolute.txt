@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Number11\bin\Debug\net6.0\Number11.exe
+C:\Users\HP\Desktop\Семинар 30.04\Number11\bin\Debug\net6.0\Number11.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Number11\bin\Debug\net6.0\Number11.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Number11\bin\Debug\net6.0\Number11.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number11\bin\Debug\net6.0\Number11.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\refint\Number11.dll
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\Number11.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Number11\obj\Debug\net6.0\ref\Number11.dll
