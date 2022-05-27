@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\bin\Debug\net6.0\Arr2Decreasing.exe
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\bin\Debug\net6.0\Arr2Decreasing.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\bin\Debug\net6.0\Arr2Decreasing.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\bin\Debug\net6.0\Arr2Decreasing.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\bin\Debug\net6.0\Arr2Decreasing.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\refint\Arr2Decreasing.dll
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\Arr2Decreasing.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Arr2Decreasing\obj\Debug\net6.0\ref\Arr2Decreasing.dll
