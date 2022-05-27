@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\bin\Debug\net6.0\Massiv8Elements.exe
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\bin\Debug\net6.0\Massiv8Elements.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\bin\Debug\net6.0\Massiv8Elements.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\bin\Debug\net6.0\Massiv8Elements.dll
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\bin\Debug\net6.0\Massiv8Elements.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.dll
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\refint\Massiv8Elements.dll
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.pdb
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\Massiv8Elements.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\Massiv8Elements\obj\Debug\net6.0\ref\Massiv8Elements.dll
