@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\bin\Debug\net6.0\InfoData.exe
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\bin\Debug\net6.0\InfoData.deps.json
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\bin\Debug\net6.0\InfoData.runtimeconfig.json
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\bin\Debug\net6.0\InfoData.dll
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\bin\Debug\net6.0\InfoData.pdb
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.AssemblyInfo.cs
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.dll
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\refint\InfoData.dll
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.pdb
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\InfoData.genruntimeconfig.cache
+C:\Users\HP\Desktop\Семинар 30.04\InfoData\obj\Debug\net6.0\ref\InfoData.dll
